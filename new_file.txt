@@ -1,3 +1,5 @@
 Here is my new very cool file.
 
 Here is a change made by Sam.
+
+That is a great change Sam. Great idea.
